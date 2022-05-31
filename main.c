@@ -3,7 +3,7 @@
 #include <string.h>
 #include <X11/Xlib.h>
 
-#include "../../arg.h"
+#include <sl/arg.h>
 
 char *argv0;
 static Display *dpy;
